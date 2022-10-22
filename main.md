@@ -65,6 +65,18 @@ _**houe**_     | pour labourer le terrain pour permettre la plantation          
 _**boussole**_ | pointe toujours vers son point de respawn en cas de mort (lit ou première apparition) | `minecraft:compass`
 _**carte**_    | permet de se reperer dans le grande monde de minecraft                                | `minecraft:filled_map`
 
+## *Nourriture*
+
+Dans le jeu et particulièrement en surivie il est necessaire de se nourrir pour ne pas mourir de faim pour ce faire nous avons plusieurs manière de se nourrir.
+voici les principaux:
+
+nom nourriture       | obtention                                                                                                     | identifiant
+---                  |                                                                                                ---            | ---
+_**Pomme**_          | s'obtient lorsque l'on casse un bloc de feuille (petit pourcentage de chance) ou dans le coffre de villageois | `minecraft:apple`
+_**Pain**_           | s'obtient en combiant 3 de blé ou dans le coffre de villageois                                                | `minecraft:bread`
+_**Saumon cuit**_    | s'obient en pêchant avec une canne à pêche ou dans le coffre de villageois                                    | `minecraft:cooked_fish`
+
+
 ## *Source*
 
 *https://fr.wikipedia.org/wiki/Liste_des_jeux_vidéo_les_plus_vendus*
