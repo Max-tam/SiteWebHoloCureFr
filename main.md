@@ -8,7 +8,7 @@
 
 - [x] *Sommaire*
 - [x] *Origine du jeux*
-- [ ] *Gameplay*
+- [x] *Gameplay*
 - [x] *image*
 - [x] *lien*
 - [x] *tableau*
