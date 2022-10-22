@@ -44,6 +44,11 @@ Partageant l'avancement du jeux sur, Notch developpe pour le plaisir de créer e
    
 ### *Mode de jeu*
 
+Minecraft est un jeux riches contenant 3 modes différents permettant à l'utilisateur de faire ce qu'il veut:
+
+
+
+
 ## *Source*
 
 *https://fr.wikipedia.org/wiki/Liste_des_jeux_vidéo_les_plus_vendus*
