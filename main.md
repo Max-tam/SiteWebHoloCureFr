@@ -92,6 +92,17 @@ _**bottes**_          | `minecraft:leather_boots` `minecraft:chainmail_boots` `m
 _**bouclier**_        | `minecraft:shield`
 _**armure de cheval**_| `minecraft:leather_horse_armor` `minecraft:chainmail_horse_armor` `minecraft:iron_horse_armor` `minecraft:golden_horse_armor` `minecraft:diamond_horse_armor` `minecraft:netherite_horse_armor`
 
+### enchantement
+
+Les enchantements permettent d'améliorer les armures et outils.
+En voici quelques un:
+
+Nom enchantement    | outils ou armure concerné | Description
+---                 | ---                       |  ---
+_**Protection**_    | toute les armures         | permet de réduire les dégâts reçu
+_**chute amortie**_ | toute les bottes          | permet de réduire d'avantage les dégâts de chute
+_**Apnée**_         | tout les casques          | permet d'être sous l'eau plus longtemps
+_**Epines**_        | tout les plastrons        | permet que si l'on prend des dégât que ses dégâts soi en même temps reçu par l'envoyeur
 
 ## *Source*
 
