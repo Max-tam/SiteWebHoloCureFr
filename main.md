@@ -103,6 +103,10 @@ _**Protection**_    | toute les armures         | permet de réduire les dégât
 _**chute amortie**_ | toute les bottes          | permet de réduire d'avantage les dégâts de chute
 _**Apnée**_         | tout les casques          | permet d'être sous l'eau plus longtemps
 _**Epines**_        | tout les plastrons        | permet que si l'on prend des dégât que ses dégâts soi en même temps reçu par l'envoyeur
+_**Tranchant**_     | Toute les épées           | permet d'augmenter les dégâts de l'épée
+_**Efficacité**_    | Tout les outils sauf épée | Augmente la rapidité de l'utilisation des outils
+_**Flamme**_        | Arc                       | chaque flèche envoyé est en feu
+_**Raccomodage**_   | Tout les outils et armures| Permet de réparer les outils et armure avec l'expérience récolté
 
 ### Boss
 
