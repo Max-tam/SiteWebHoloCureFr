@@ -9,7 +9,7 @@
 - [ ] *Origine du jeux*
 - [ ] *Gameplay*
 - [ ] *Characteres*
-- [ ] *image*
+- [x] *image*
 - [ ] *lien*
 - [ ] *tableau*
 
