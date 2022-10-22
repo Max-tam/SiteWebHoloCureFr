@@ -45,6 +45,9 @@ Partageant l'avancement du jeux sur, Notch developpe pour le plaisir de créer e
 ### *Mode de jeu*
 
 Minecraft est un jeux riches contenant 3 modes différents permettant à l'utilisateur de faire ce qu'il veut:
+Mode          | particularité                                                                                            | objectf
+---           | ---                                                                                                      | ---
+**_survie_**  | *possibilité de mourir face au coup des monstres hostile, dégât de chute et autre + pas de blocs infini* | survivre face à l'environnement hostile en faisant des constructions et en améliorant ses équipements
 
 
 
