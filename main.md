@@ -11,7 +11,7 @@
 - [ ] *Gameplay*
 - [x] *image*
 - [x] *lien*
-- [ ] *tableau*
+- [x] *tableau*
 - [x] *lists*
 
 ## *Sommaire*
@@ -48,9 +48,8 @@ Minecraft est un jeux riches contenant 3 modes différents permettant à l'utili
 Mode          | particularité                                                                                            | objectf
 ---           | ---                                                                                                      | ---
 **_survie_**  | *possibilité de mourir face au coup des monstres hostile, dégât de chute et autre + pas de blocs infini* | survivre face à l'environnement hostile en faisant des constructions et en améliorant ses équipements
-
-
-
+**_créatif_** | *invicibilité du joueur + blocs infini*                                                                  | laisser l'utilisateur faire appelle à son imagination sans limite
+**_aventure_**| *le joueur est limité et ne peux pas détruire les blocs*                                                 | permet à l'utilisateur de faire des créations que les autres utilisateurs ayant ce mode ne peuvent pas détruire
 
 ## *Source*
 
