@@ -61,7 +61,9 @@ _**pioche**_   | pour détruire des blocs dure comme la pierre, l'obsidienne, ec
 _**épée**_     | pour faire plus de dégât au monstre hostile, joueur ou animaux      | `minecraft:wooden_sword`  `minecraft:stone_sword` `minecraft:iron_sword` `minecraft:golden_sword` `minecraft:diamond_sword` `minecraft:netherite_sword`
 _**pelle**_    | pour détruire des blocs peu dure comme la terre, le sable, ect..    | `minecraft:wooden_shovel`  `minecraft:stone_shovel` `minecraft:iron_shovel` `minecraft:golden_shovel` `minecraft:diamond_shovel` `minecraft:netherite_shovel`
 _**hache**_    | pour détruire plus rapidement les blocs en bois                     | `minecraft:wooden_axe`  `minecraft:stone_axe` `minecraft:iron_axe` `minecraft:golden_axe` `minecraft:diamond_axe` `minecraft:netherite_axe`
-
+_**houe**_     | pour labourer le terrain pour permettre la plantation               | `minecraft:wooden_hoe`  `minecraft:stone_hoe` `minecraft:iron_hoe` `minecraft:golden_hoe` `minecraft:diamond_hoe` `minecraft:netherite_hoe`
+_**boussole**_ | pointe toujours vers son point de respawn en cas de mort (lit ou première apparition) | `minecraft:compass`
+_**carte**_    | permet de se reperer dans le grande monde de minecraft                                | `minecraft:filled_map`
 
 ## *Source*
 
