@@ -6,10 +6,10 @@
 
 ## *Tache à réaliser:*
 
+- [ ] *Sommaire*
 - [ ] *Origine du jeux*
 - [ ] *Gameplay*
 - [ ] *Characteres*
 - [x] *image*
 - [ ] *lien*
 - [ ] *tableau*
-
