@@ -124,3 +124,4 @@ _**Ender Dragon**_| localisé dans la dimension du l'ender | Gardien de la dimen
 
 [_**nombre de joueur actif**_](https://dailygeekshow.com/minecraft-112-millions-joueurs-actifs/#:~:text=Minecraft%20compte%20désormais%20112%20millions%20de%20joueurs%20actifs%20par%20mois,-Un%20record%20pour&text=Minecraft%20est%20incontestablement%20un%20des,plus%20que%20l%27année%20dernière%20!)
 
+---
