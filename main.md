@@ -3,7 +3,6 @@
 # _**MINECRAFT FR**_
 
 *Ce repository est consacré à la l'utilisation du __Markdown__ sur github avec pour thème le jeu __Minecraft de Mojang__.*
-*sommaire*
 
 ## *Tache à réaliser:*
 
@@ -14,3 +13,4 @@
 - [ ] *lien*
 - [ ] *tableau*
 - [ ] *lists*
+- [ ] * teste*
