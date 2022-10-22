@@ -25,7 +25,7 @@ _**2. Gameplay:**_
    -*3 nourriture*   
    -*4 armure*  
    -*5 enchantement*   
-   -*6 bosse*
+   -*6 boss*
 
 ## *Origine du jeux*
 
@@ -92,7 +92,7 @@ _**bottes**_          | `minecraft:leather_boots` `minecraft:chainmail_boots` `m
 _**bouclier**_        | `minecraft:shield`
 _**armure de cheval**_| `minecraft:leather_horse_armor` `minecraft:chainmail_horse_armor` `minecraft:iron_horse_armor` `minecraft:golden_horse_armor` `minecraft:diamond_horse_armor` `minecraft:netherite_horse_armor`
 
-### enchantement
+### *Enchantement*
 
 Les enchantements permettent d'améliorer les armures et outils.
 En voici quelques un:
@@ -103,6 +103,8 @@ _**Protection**_    | toute les armures         | permet de réduire les dégât
 _**chute amortie**_ | toute les bottes          | permet de réduire d'avantage les dégâts de chute
 _**Apnée**_         | tout les casques          | permet d'être sous l'eau plus longtemps
 _**Epines**_        | tout les plastrons        | permet que si l'on prend des dégât que ses dégâts soi en même temps reçu par l'envoyeur
+
+### Boss
 
 ## *Source*
 
