@@ -88,6 +88,9 @@ nom                   | identifiant (selon le matériaux)
 _**Casque**_          | `minecraft:leather_helmet` `minecraft:chainmail_helmet` `minecraft:iron_helmet` `minecraft:golden_helmet` `minecraft:diamond_helmet` `minecraft:netherite_helmet`
 _**Plastron**_        | `minecraft:leather_chestplate` `minecraft:chainmail_chestplate` `minecraft:iron_chestplate` `minecraft:golden_chestplate` `minecraft:diamond_chestplate` `minecraft:netherite_chestplate`
 _**jambière**_        | `minecraft:leather_leggings` `minecraft:chainmail_leggings` `minecraft:iron_leggings` `minecraft:golden_leggings` `minecraft:diamond_leggings` `minecraft:netherite_leggings`
+_**bottes**_          | `minecraft:leather_boots` `minecraft:chainmail_boots` `minecraft:iron_boots` `minecraft:golden_boots` `minecraft:diamond_boots` `minecraft:netherite_boots`
+_**bouclier**_        | `minecraft:shield`
+_**armure de cheval**_| `minecraft:leather_horse_armor` `minecraft:chainmail_horse_armor` `minecraft:iron_horse_armor` `minecraft:golden_horse_armor` `minecraft:diamond_horse_armor` `minecraft:netherite_horse_armor`
 
 
 ## *Source*
