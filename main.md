@@ -51,6 +51,16 @@ Mode          | particularité                                                  
 **_créatif_** | *invicibilité du joueur + blocs infini*                                                                  | laisser l'utilisateur faire appelle à son imagination sans limite
 **_aventure_**| *le joueur est limité et ne peux pas détruire les blocs*                                                 | permet à l'utilisateur de faire des créations que les autres utilisateurs ayant ce mode ne peuvent pas détruire
 
+### *outils*
+
+Comme dit un peu plus haut minecraft a de très nombreux outils parmis les quels ont a principalement **_la pioche, l'épée, la pelle, la hache, la houe, la carte et la boussoles_**
+
+nom outil      | utilisation                                                         | identifiant (selon le matériaux)
+---            | ---                                                                 | ---
+_**pioche**_   | pour détruire des blocs dure comme la pierre, l'obsidienne, ect...  | `minecraft:wooden_pickaxe`  `minecraft:stone_pickaxe` `minecraft:iron_pickaxe` `minecraft:golden_pickaxe` `minecraft:diamond_pickaxe` `minecraft:netherite_pickaxe`
+_**épée**_     | pour faire plus de dégât au monstre hostile, joueur ou animaux      | `minecraft:wooden_sword`  `minecraft:stone_sword` `minecraft:iron_sword` `minecraft:golden_sword` `minecraft:diamond_sword` `minecraft:netherite_sword`
+
+
 ## *Source*
 
 *https://fr.wikipedia.org/wiki/Liste_des_jeux_vidéo_les_plus_vendus*
