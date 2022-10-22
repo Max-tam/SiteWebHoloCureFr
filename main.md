@@ -13,4 +13,3 @@
 - [ ] *lien*
 - [ ] *tableau*
 - [ ] *lists*
-- [ ] * teste*
