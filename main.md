@@ -20,11 +20,12 @@ _**1. Origine du jeux**_
 
 _**2. Gameplay:**_
 
-   -*1 outils*   
-   -*2 nourriture*   
-   -*3 armure*  
-   -*4 enchantement*   
-   -*5 bosse*
+   -*1 mode de jeu*   
+   -*2 outils*   
+   -*3 nourriture*   
+   -*4 armure*  
+   -*5 enchantement*   
+   -*6 bosse*
 
 ## *Origine du jeux*
 
@@ -33,10 +34,13 @@ Inspiré pour l'époque des jeux [**_Dwarf Fortress_**](https://fr.wikipedia.org
 Toujours aussi connu aujourd'hui avec ses **_112 millions de joueurs mensuel_**, il est incontestablement **_le jeux le plus populaire de la decennie_**.
 Pourtant, au tout début, Notch n'avait en aucun cas pour objectif de le rendre aussi célèbre.
 
-Partageant l'avancement du jeux sur, Notch developpe pour le plaisir de créer et non pour l'argent. Ce sera dailleur la raison pour laquel il quittera Mojang (le studio de développement du jeux Minecraft) le 9 novembre 2014 à cause de la pression de la communauté grandissante pour plus de nouveauté.
+Partageant l'avancement du jeux sur, Notch developpe pour le plaisir de créer et non pour l'argent. Ce sera dailleur la raison pour laquel il quittera Mojang (le studio de développement du jeux Minecraft) le **_9 novembre 2014_** à cause de la pression de la communauté grandissante pour plus de nouveauté.
 
 ## *Gameplay*
 
+   Le gameplay de minecraft à beaucoup évolué depuis sa sorti. Initalement il était possible d'avoir seulement **_30 blocs de construction sur un seul mode_** dit "créatif". Aujourd'hui ce n'est pas moin de plus de _**3000 blocs disponible pour une créativité accrue sans compté les 14 outils, les 40 enchantements et les 2 modes en plus du mode "créatif"**_. Minecraft est devenue un jeu si polivalent qu'il est difficile de s'ennuyer.
+   
+### *Mode de jeu*
 
 ## *Source*
 
