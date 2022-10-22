@@ -6,13 +6,13 @@
 
 ## *Tache à réaliser:*
 
-- [ ] *Sommaire*
-- [ ] *Origine du jeux*
+- [x] *Sommaire*
+- [x] *Origine du jeux*
 - [ ] *Gameplay*
 - [x] *image*
-- [ ] *lien*
+- [x] *lien*
 - [ ] *tableau*
-- [ ] *lists*
+- [x] *lists*
 
 ## *Sommaire*
 
