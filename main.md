@@ -34,6 +34,8 @@ Inspiré pour l'époque des jeux [**_Dwarf Fortress_**](https://fr.wikipedia.org
 Toujours aussi connu aujourd'hui avec ses **_112 millions de joueurs mensuel_**, il est incontestablement **_le jeux le plus populaire de la decennie_**.
 Pourtant, au tout début, Notch n'avait en aucun cas pour objectif de le rendre aussi célèbre.
 
+Partageant l'avancement du jeux sur, Notch developpe pour le plaisir de créer et non pour l'argent. Ce sera dailleur la raison pour laquel il quittera Mojang (le studio de développement du jeux Minecraft) le **_9 novembre 2014_** à cause de la pression de la communauté grandissante pour plus de nouveauté.
+
 
 
 ## *Gameplay*
