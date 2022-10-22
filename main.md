@@ -120,7 +120,7 @@ _**Ender Dragon**_| localisé dans la dimension du l'ender | Gardien de la dimen
 
 ## *Source*
 
-[liste des jeux les plus vendus](https://fr.wikipedia.org/wiki/Liste_des_jeux_vidéo_les_plus_vendus)
+[**_liste des jeux les plus vendus_**](https://fr.wikipedia.org/wiki/Liste_des_jeux_vidéo_les_plus_vendus)
 
-[nombre de joueur actif](https://dailygeekshow.com/minecraft-112-millions-joueurs-actifs/#:~:text=Minecraft%20compte%20désormais%20112%20millions%20de%20joueurs%20actifs%20par%20mois,-Un%20record%20pour&text=Minecraft%20est%20incontestablement%20un%20des,plus%20que%20l%27année%20dernière%20!)
+[_**nombre de joueur actif**_](https://dailygeekshow.com/minecraft-112-millions-joueurs-actifs/#:~:text=Minecraft%20compte%20désormais%20112%20millions%20de%20joueurs%20actifs%20par%20mois,-Un%20record%20pour&text=Minecraft%20est%20incontestablement%20un%20des,plus%20que%20l%27année%20dernière%20!)
 
