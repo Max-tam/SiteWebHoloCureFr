@@ -65,7 +65,7 @@ _**houe**_     | pour labourer le terrain pour permettre la plantation          
 _**boussole**_ | pointe toujours vers son point de respawn en cas de mort (lit ou première apparition) | `minecraft:compass`
 _**carte**_    | permet de se reperer dans le grande monde de minecraft                                | `minecraft:filled_map`
 
-## *Nourriture*
+### *Nourriture*
 
 Dans le jeu et particulièrement en surivie il est necessaire de se nourrir pour ne pas mourir de faim pour ce faire nous avons plusieurs manière de se nourrir.
 voici les principaux:
@@ -78,6 +78,16 @@ _**Saumon cuit**_    | s'obient en pêchant avec une canne à pêche ou dans le 
 _**Carotte**_        | s'obtient en cultivant des carottes, en tuant un zombie (faible chance) ou dans le coffre de villageois       | `minecraft:carrot`
 _**Pomme de terre**_ | s'obtient en cultivant des pommes de terre, en tuant un zombie (faible chance) ou dans le coffre de villageois| `minecraft:potato`
 _**Chair putrifiée**_| s'obtient en tuant un zombie et dans le coffre de villageois, de donjon et de temple                          | `minecraft:rotten_flesh`
+
+### *armure*
+
+Pour plus de protection il est possible de **_porter une armure et un bouclier_**:
+
+nom                   | identifiant (selon le matériaux)
+---                   | ---
+_**Casque**_          | `minecraft:leather_helmet` `minecraft:chainmail_helmet` `minecraft:iron_helmet` `minecraft:golden_helmet` `minecraft:diamond_helmet` `minecraft:netherite_helmet`
+_**Plastron**_        | `minecraft:leather_chestplate` `minecraft:chainmail_chestplate` `minecraft:iron_chestplate` `minecraft:golden_chestplate` `minecraft:diamond_chestplate` `minecraft:netherite_chestplate`
+_**jambière**_        | `minecraft:leather_leggings` `minecraft:chainmail_leggings` `minecraft:iron_leggings` `minecraft:golden_leggings` `minecraft:diamond_leggings` `minecraft:netherite_leggings`
 
 
 ## *Source*
