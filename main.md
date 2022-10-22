@@ -108,10 +108,19 @@ _**Efficacité**_    | Tout les outils sauf épée | Augmente la rapidité de l'
 _**Flamme**_        | Arc                       | chaque flèche envoyé est en feu
 _**Raccomodage**_   | Tout les outils et armures| Permet de réparer les outils et armure avec l'expérience récolté
 
-### Boss
+### *Boss*
+
+Il y a de nombreux boss dans le jeu souvent à des endroits précis.
+En voici 2:
+
+Nom du boss       | localisation ou invocation | Description
+---               | ---                        | ---
+_**Wither**_      | invocation dans n'importe quel dimension avec 4 blocs des sables des âmes et 3 tête de wither squelette (dans la dimension du neither) | Monstre à 3 tête qu'il envoie comme projectile, il détruit tout autour de lui même les blocs les plus résistant et vise toute les entités les plus proche de lui.
+_**Ender Dragon**_| localisé dans la dimension du l'ender | Gardien de la dimension de l'Ender, Il faudra battre se dragon pour accéder au forteresse de l'end et trouver la tant convoité **_élytre_**
 
 ## *Source*
 
-*https://fr.wikipedia.org/wiki/Liste_des_jeux_vidéo_les_plus_vendus*
+[liste des jeux les plus vendus](https://fr.wikipedia.org/wiki/Liste_des_jeux_vidéo_les_plus_vendus)
 
-*https://dailygeekshow.com/minecraft-112-millions-joueurs-actifs/#:~:text=Minecraft%20compte%20désormais%20112%20millions%20de%20joueurs%20actifs%20par%20mois,-Un%20record%20pour&text=Minecraft%20est%20incontestablement%20un%20des,plus%20que%20l%27année%20dernière%20!*
+[nombre de joueur actif](https://dailygeekshow.com/minecraft-112-millions-joueurs-actifs/#:~:text=Minecraft%20compte%20désormais%20112%20millions%20de%20joueurs%20actifs%20par%20mois,-Un%20record%20pour&text=Minecraft%20est%20incontestablement%20un%20des,plus%20que%20l%27année%20dernière%20!)
+
