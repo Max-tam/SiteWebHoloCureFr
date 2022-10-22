@@ -28,7 +28,18 @@ _**2. Gameplay:**_
 
 ## *Origine du jeux*
 
-**_Minecraft_** est un jeu de type bac à sable développé par [**_Markus Persson alias Notch_**](https://fr.wikipedia.org/wiki/Markus_Persson) en 2009. Inspiré pour l'époque des jeux [**_Dwarf Fortress_**](https://fr.wikipedia.org/wiki/Slaves_to_Armok_II:_Dwarf_Fortress), [**_Dungeon Keeper_**](https://fr.wikipedia.org/wiki/Dungeon_Keeper_(jeu_vidéo,_1997)) et [**_Infiniminer_**](https://fr.wikipedia.org/wiki/Infiniminer), il est aujourd'hui, 13 ans après son annoncement au publique, le jeux le plus vendu au monde avec plus de 238 millions de vente.
+**_Minecraft_** est un jeu de type bac à sable développé par [**_Markus Persson alias Notch_**](https://fr.wikipedia.org/wiki/Markus_Persson) en _**2009**_.
+Inspiré pour l'époque des jeux [**_Dwarf Fortress_**](https://fr.wikipedia.org/wiki/Slaves_to_Armok_II:_Dwarf_Fortress), [**_Dungeon Keeper_**](https://fr.wikipedia.org/wiki/Dungeon_Keeper_(jeu_vidéo,_1997)) et [**_Infiniminer_**](https://fr.wikipedia.org/wiki/Infiniminer), il est aujourd'hui, _**13 ans après son annoncement au publique**_, le jeux le plus vendu au monde avec plus de **_238 millions de vente_**. 
+Toujours aussi connu aujourd'hui avec ses **_112 millions de joueurs mensuel_**, il est incontestablement **_le jeux le plus populaire de la decennie_**.
+Pourtant, au tout début, Notch n'avait en aucun cas pour objectif de le rendre aussi célèbre.
 
+Partageant l'avancement du jeux sur, Notch developpe pour le plaisir de créer et non pour l'argent. Ce sera dailleur la raison pour laquel il quittera Mojang (le studio de développement du jeux Minecraft) le 9 novembre 2014 à cause de la pression de la communauté grandissante pour plus de nouveauté.
 
 ## *Gameplay*
+
+
+## *Source*
+
+*https://fr.wikipedia.org/wiki/Liste_des_jeux_vidéo_les_plus_vendus*
+
+*https://dailygeekshow.com/minecraft-112-millions-joueurs-actifs/#:~:text=Minecraft%20compte%20désormais%20112%20millions%20de%20joueurs%20actifs%20par%20mois,-Un%20record%20pour&text=Minecraft%20est%20incontestablement%20un%20des,plus%20que%20l%27année%20dernière%20!*
