@@ -75,6 +75,9 @@ nom nourriture       | obtention                                                
 _**Pomme**_          | s'obtient lorsque l'on casse un bloc de feuille (petit pourcentage de chance) ou dans le coffre de villageois | `minecraft:apple`
 _**Pain**_           | s'obtient en combiant 3 de blé ou dans le coffre de villageois                                                | `minecraft:bread`
 _**Saumon cuit**_    | s'obient en pêchant avec une canne à pêche ou dans le coffre de villageois                                    | `minecraft:cooked_fish`
+_**Carotte**_        | s'obtient en cultivant des carottes, en tuant un zombie (faible chance) ou dans le coffre de villageois       | `minecraft:carrot`
+_**Pomme de terre**_ | s'obtient en cultivant des pommes de terre, en tuant un zombie (faible chance) ou dans le coffre de villageois| `minecraft:potato`
+_**Chair putrifiée**_| s'obtient en tuant un zombie et dans le coffre de villageois, de donjon et de temple                          | `minecraft:rotten_flesh`
 
 
 ## *Source*
