@@ -16,7 +16,15 @@
 
 ## *Sommaire*
 
+_**1. Origine du jeux**_
 
+_**2. Gameplay:**_
+
+   -*1 outils*   
+   -*2 nourriture*   
+   -*3 armure*  
+   -*4 enchantement*   
+   -*5 bosse*
 
 ## *Origine du jeux*
 
